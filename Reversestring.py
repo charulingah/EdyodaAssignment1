@@ -1,6 +1,6 @@
 #Reverse a string Edyoda
 
-s = "Edyoda"
+s = input("Enter a string to be reversed : ")
 i = len(s)-1
 result = " "
 while i >= 0:
